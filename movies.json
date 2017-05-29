@@ -1,0 +1,32 @@
+"movies": [
+{
+	"Name": "Kazaam",
+	"year": "1996",
+	"genre": "musical, fantasy, comedy"
+
+}
+{
+	"Name": "Spirited Away",
+	"year": "2001",
+	"genre":"animation"
+
+}
+{
+	"Name": "Fight CLub",
+	"year": "1999", 
+	"genre": "Drama"
+
+}
+{
+	"Name": "Toy Story",
+	"year": "1995",
+	"genre": "animation"
+
+}
+{
+	"Name": "Hercules" ,
+	"year": "1997",
+	"genre": "animation"
+
+}
+]
